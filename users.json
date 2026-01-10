@@ -1,0 +1,22 @@
+{
+    "1":{
+        "name": "Артём",
+        "level": 2,
+        "favorite": "Linux"
+    },
+    "2":{
+        "name": "Игорь",
+        "level": 5,
+        "favorite": "minecraft"
+    },
+    "3":{
+        "name": "Вадим",
+        "level": "10",
+        "favorite": "MacBook"
+    },
+    "4":{
+        "name": "Руслан",
+        "level": "8",
+        "favorite": "Web programming"
+    }
+}
