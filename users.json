@@ -1,22 +1,25 @@
 {
-    "1":{
-        "name": "Артём",
+    "1": {
+        "name": "Аня",
         "level": 2,
-        "favorite": "Linux"
+        "favorite": "cats"
     },
-    "2":{
+    "2": {
         "name": "Игорь",
         "level": 5,
         "favorite": "minecraft"
     },
-    "3":{
+    "3": {
         "name": "Вадим",
-        "level": "10",
-        "favorite": "MacBook"
+        "level": 6,
+        "favorite": "Python"
     },
-    "4":{
-        "name": "Руслан",
-        "level": "8",
-        "favorite": "Web programming"
+    "4": {
+        "name": "Артём",
+        "level": 1,
+        "favorite": "Vk"
+    },
+    "567396586": {
+        "name": "Артём"
     }
 }
